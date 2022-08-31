@@ -14,5 +14,35 @@
 ## Comandos
 Utilize os seguintes comandos
 - npm install
-- npm run build
 - npm run serve
+
+## Utilizando Terminal
+- Após startar o servidor, acesse o navegador com o ip
+- ![image](https://user-images.githubusercontent.com/90513511/187598842-789f7180-7136-46ee-b53c-acc851463560.png)
+
+
+## Segue algumas fotos referente ao desenvolvimento
+- Página principal dos filmes consumidos pela API.
+- ![image](https://user-images.githubusercontent.com/90513511/187603138-69089223-0dfb-45f4-8bca-c6d58d7fff1b.png)
+
+
+
+- Imagem da sinopse do filme.
+- ![image](https://user-images.githubusercontent.com/90513511/187601625-19f8974e-ab99-42cf-8684-92ee452404c0.png)
+
+
+- Imagem dos filmes favoritos. (Um pequeno erro de formatação css)
+- ![image](https://user-images.githubusercontent.com/90513511/187602099-b54c6b2d-00cb-406c-a48e-bb39cbe6b004.png)
+
+
+
+## CONSUMINDO API
+
+Objetivo: Desenvolver um 'aplicativo' utilizando como ferramente principal o vueJS e conteúdos visto nos cursos.
+
+Requisitos: Usar sua própria arquitetura de aplicativo e/ou preferências (padrões de codificação, organização de código, bibliotecas de terceiros, etc) para comunicar com uma API externa. O projeto deve ser disponibilizado em um repositório no GitHUB com uma documentação que permita o uso.
+O projeto será testado e analisado por outros companheiros de trabalho, afim de que encontrem falhas ou façam críticas construtivas.
+
+Projeto deve ser desenvolvido sozinho.
+
+Entregue: 31/08/2022
