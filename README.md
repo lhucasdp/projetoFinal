@@ -11,7 +11,7 @@
 - Acesse a pasta via terminal ou utilize o terminal da IDE
 
 ## Comandos
-### Utilize os seguintes comandos
+Utilize os seguintes comandos
 - npm install
 - npm run build
 - npm run serve
