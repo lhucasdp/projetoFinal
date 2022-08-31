@@ -1,4 +1,6 @@
 # projeto_final
+## Primeiro certifique-se de ter o [nodeJS](https://nodejs.org/en/) instalado em sua máquina.
+
 
 ## Project setup
 ```
