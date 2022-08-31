@@ -38,7 +38,7 @@ Utilize os seguintes comandos
 
 ## CONSUMINDO API
 
-Objetivo: Desenvolver um 'aplicativo' utilizando como ferramente principal o vueJS e conteúdos visto nos cursos.
+Objetivo: Desenvolver um aplicativo que consuma uma APi de filmes utilizando como ferramente principal o vueJS e conteúdos visto nos cursos, ***o foco não é o visual, mas a API*** .
 
 Requisitos: Usar sua própria arquitetura de aplicativo e/ou preferências (padrões de codificação, organização de código, bibliotecas de terceiros, etc) para comunicar com uma API externa. O projeto deve ser disponibilizado em um repositório no GitHUB com uma documentação que permita o uso.
 O projeto será testado e analisado por outros companheiros de trabalho, afim de que encontrem falhas ou façam críticas construtivas.
