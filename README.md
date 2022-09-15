@@ -18,7 +18,8 @@ Utilize os seguintes comandos
 
 ## Utilizando Terminal
 - Após startar o servidor, acesse o navegador com o ip
-- ![image](https://user-images.githubusercontent.com/90513511/187598842-789f7180-7136-46ee-b53c-acc851463560.png)
+- ![image](https://user-images.githubusercontent.com/90513511/190292180-44d0a666-1004-4562-a944-64be210d2f07.png)
+
 
 
 ## Segue algumas fotos referente ao desenvolvimento
